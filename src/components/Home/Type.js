@@ -9,7 +9,7 @@ function Type() {
           "Student at VIT CHENNAI",
           "Third Year Student",
           "Intrested In Web Development",
-          ""
+          "Passionate coder, web enthusiast 🚀"
         ],
         autoStart: true,
         loop: true,
